@@ -1,5 +1,9 @@
 # 使用方法
 
+## 部署
+```bash
+bin/coscli-linux cp -r dist cos://account-book-1327984201  
+```
 ## 开发
 
 ```bash
